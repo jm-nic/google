@@ -6,7 +6,7 @@
 "settings": {
 "clients": [
 {
-"id": "d595fe8c-227e-495a-d674-bc4284f48afb",
+"id": "37568ea2-17b6-4013-aee7-42a058347f84",
 "level": 0
 }
 ],
@@ -15,7 +15,7 @@
 "streamSettings": {
 "network": "ws",
 "wsSettings": {
-"path": "/jmnic"
+"path": "/jso34zyv"
 }
 }
 }
